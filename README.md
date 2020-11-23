@@ -1,6 +1,6 @@
 # Product Scraper
 This application has the objective to retrieve all products from Kolonial.no website.
-###Initializing the application
+### Initializing the application
 Before start with the process be sure to be inside the Project folder.
 
 Build the Spring Boot Project with Maven
