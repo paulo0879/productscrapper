@@ -23,7 +23,7 @@ It can be checked seeing the log with the message:
 
 After the scrap finish it will log the message:
 
-    [   scheduling-1] c.k.product.scraper.service.Fetcher      : Product Scraper started.
+    [   scheduling-1] c.k.product.scraper.service.Fetcher      : Product Scraper successfully scraped 6448 products.
 
 All data retrieved from the website is saved in the database.
 
